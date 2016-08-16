@@ -1,0 +1,14 @@
+body { 
+	text-align: center;
+	background: url("http://img.huffingtonpost.com/asset/scalefit_630_noupscale/55e4bab01400002e002e487b.jpeg");
+	background-size: cover;
+	color: #fff;
+	font-family: Helvetica;
+	font-size: 40px
+}
+a{
+	color: #fff
+}
+#main {
+	font-size: 70px
+}
