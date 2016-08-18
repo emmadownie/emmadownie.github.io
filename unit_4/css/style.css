@@ -5,7 +5,7 @@ body {
 	background: url("http://img.huffingtonpost.com/asset/scalefit_630_noupscale/55e4bab01400002e002e487b.jpeg");
 	background-size: cover;
 	color: #fff;
-	font-family: 'Josefin Slab', cursive;
+	font-family: 'Josefin Slab', 'Helvetica', cursive;
 	font-size: 40px;
 }
 a{
